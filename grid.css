@@ -1,0 +1,13 @@
+.inline-container {
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.main-container {
+  padding: 50px;
+}
+
+body {
+  background-color: black;
+}
